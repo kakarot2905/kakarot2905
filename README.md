@@ -6,13 +6,18 @@
   </a>
 </h2>
 
-<div style="display: flex; align-items: center; flex-direction: row; justify-content: center; gap: 10px; flex-wrap: nowrap;">
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; align-items: flex-start;">
   <!-- GIF Section -->
-  <img alt="GIF" src="./Assets/amv.gif" style="width: 30%; height: auto; border-radius: 20px; border: 1px solid white;" />
+  <img alt="GIF" src="./Assets/amv.gif" style="max-width: 40%; height: auto; border-radius: 20px; border: 1px solid white;" />
 
   <!-- GitHub Stats Section -->
-  <div style="flex-grow: 1; max-width: 60%;">
-    <img src="https://github-readme-stats.vercel.app/api?username=kakarot2905&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=merko" alt="GitHub Stats" style="display: block; margin: 10px auto; max-width: 100%; height: auto;"/>
+  <div style="max-width: 50%; width: 100%; text-align: center;">
+    <h2 style="margin: 0;">GitHub Contributions</h2>
+    <img src="https://github-readme-stats.vercel.app/api?username=kakarot2905&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=merko" alt="GitHub Stats" style="display: block; margin: 10px auto; width: 100%; max-width: 100%;"/>
+
+    <h2 style="margin: 20px 0 0;">Streak</h2>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kakarot2905&theme=radical" alt="GitHub Streak" style="display: block; margin: 10px auto; width: 100%; max-width: 100%;"/>
   </div>
 </div>
+
 
