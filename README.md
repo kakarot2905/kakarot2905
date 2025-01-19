@@ -6,16 +6,16 @@ Welcome to my GitHub profile! I'm a passionate Full Stack Developer and always e
 
 - 👨‍💻 I'm a Full Stack Developer with expertise in front-end technologies (React, JavaScript, HTML, CSS) and back-end technologies (Node.js, Express, MongoDB).
 - 🌱 I’m currently learning and exploring new frameworks and technologies.
-- 💬 Ask me about anything related to web development or AI!
+- 💬 Ask me about anything related to web development !
 - 📚 You can find me working on **open-source contributions** and personal projects.
   
 ## 🧑‍💻 Skills
 
-**Front-End**: React.js, HTML5, CSS3, JavaScript  
-**Back-End**: Node.js, Express.js, MongoDB, Firebase  
+**Front-End**: React.js, HTML, CSS, JavaScript  
+**Back-End**: Node.js, Express.js, MongoDB 
 **Languages**: JavaScript, Python, C++, SQL  
-**Tools**: Git, GitHub, Docker, Postman  
-**Others**: OpenGL, Unity, GIS
+**Tools**: Git, GitHub, Docker 
+**Others**: Unity, Fusion 360
 
 ## 🌟 GitHub Stats
 
@@ -36,7 +36,7 @@ Welcome to my GitHub profile! I'm a passionate Full Stack Developer and always e
 - **Deployment**: Heroku, Netlify, Vercel
 - **Others**: Docker, Firebase, PostgreSQL, MongoDB
 
-## 💼 Projects
+<!-- ## 💼 Projects
 
 ### [Personal Portfolio Website](https://github.com/kakarot2905/portfolio)
 - My personal portfolio showcasing my skills, projects, and experience.
@@ -45,13 +45,13 @@ Welcome to my GitHub profile! I'm a passionate Full Stack Developer and always e
 - A web-based application to count people in real-time using computer vision and AI.
 
 ### [Drone-Based Monitoring System](https://github.com/kakarot2905/drone-monitoring)
-- A drone system for monitoring and detecting certain objects from a height.
+- A drone system for monitoring and detecting certain objects from a height. -->
 
-## 📫 How to Reach Me
+<!-- ## 📫 How to Reach Me
 
 - 🔗 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/kakarot2905)
 - 🌐 Portfolio: [My Portfolio](https://portfolio-link.com)
-- ✉️ Email: kakarot2905@example.com
+- ✉️ Email: kakarot2905@example.com -->
 
 ## 🎯 Let's Connect
 
