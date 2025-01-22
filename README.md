@@ -34,7 +34,7 @@ Welcome to my GitHub profile! I'm a passionate Full Stack Developer and always e
 - **Code Editor**: VS Code
 - **Version Control**: Git, GitHub
 - **Deployment**: Heroku, Netlify, Vercel
-- **Others**: Docker, Firebase, PostgreSQL, MongoDB
+- **Others**: Docker, Firebase, MongoDB
 
 <!-- ## 💼 Projects
 
