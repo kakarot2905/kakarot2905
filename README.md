@@ -1,67 +1,134 @@
-# Hi there, I'm [Kakarot2905](https://github.com/kakarot2905) 👋
+<div align="center">
 
-Welcome to my GitHub profile! I'm a passionate Full Stack Developer and always excited to learn new technologies and contribute to open-source projects.
+<!-- Animated Galaxy Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d2b,50:1a1a4e,100:0d0d2b&height=200&section=header&text=Kakarot2905&fontSize=60&fontColor=a78bfa&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Explorer%20of%20the%20Digital%20Universe&descAlignY=58&descSize=16&descColor=818cf8&animation=fadeIn" />
 
-## 🚀 About Me
+<!-- Cosmic Divider -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
-- 👨‍💻 I'm a Full Stack Developer with expertise in front-end technologies (React, JavaScript, HTML, CSS) and back-end technologies (Node.js, Express, MongoDB).
-- 🌱 I’m currently learning and exploring new frameworks and technologies.
-- 💬 Ask me about anything related to web development !
-- 📚 You can find me working on **open-source contributions** and personal projects.
-  
-## 🧑‍💻 Skills
+</div>
 
-**Front-End**: React.js, HTML, CSS, JavaScript  
-**Back-End**: Node.js, Express.js, MongoDB 
-**Languages**: JavaScript, Python, C++, SQL  
-**Tools**: Git, GitHub, Docker 
-**Others**: Unity, Fusion 360
+```javascript
+const kakarot2905 = {
+  role:       "Full Stack Developer",
+  location:   "Somewhere in the Digital Galaxy 🌌",
+  mission:    "Turning coffee into code, one commit at a time ☕→⚡",
+  currently:  ["Exploring new frameworks", "Contributing to open-source"],
+  ask_me:     "Anything about web development!",
+  funFact:    "I debug faster at 2AM than 2PM 🌙"
+};
+```
 
-## 🌟 GitHub Stats
+<div align="center">
 
-![Kakarot2905's GitHub stats](https://github-readme-stats.vercel.app/api?username=kakarot2905&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=merko)
+<!-- Animated Typing -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=false&width=600&lines=Welcome+to+my+corner+of+the+galaxy+%F0%9F%8C%8C;Full+Stack+Dev+%7C+React+%7C+Node.js+%7C+MongoDB;Open+Source+Enthusiast+%F0%9F%9A%80;Always+learning%2C+always+building+%E2%9C%A8" alt="Typing SVG" />
 
-## 📊 GitHub Streak
+</div>
 
-![Kakarot2905's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kakarot2905&theme=merko)
+<br/>
 
-## 📈 Contribution Graph
+## 🌌 About Me
 
-![Kakarot2905's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kakarot2905&bg_color=000000&color=ffffff&line=559948&point=0bfe3c&area=true&hide_border=true)
+<img align="right" width="350" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake eating contributions" />
 
-## 🛠️ Tools I Use
+- 🔭 Full Stack Developer with mastery in **React, Node.js & MongoDB**
+- 🌱 Always exploring new frameworks and technologies
+- 🛸 Passionate about **open-source** contributions & collaboration
+- ⚡ Familiar with **Unity** and **Fusion 360** beyond the web
+- 🐉 Named after the most iconic Saiyan in the galaxy
+- 💬 Ask me about **anything web development related**
+- 🎯 Goal: Write code that outlives the stars
 
-- **Code Editor**: VS Code
-- **Version Control**: Git, GitHub
-- **Deployment**: Heroku, Netlify, Vercel
-- **Others**: Docker, Firebase, MongoDB
-
-<!-- ## 💼 Projects
-
-### [Personal Portfolio Website](https://github.com/kakarot2905/portfolio)
-- My personal portfolio showcasing my skills, projects, and experience.
-
-### [Crowd Counting Application](https://github.com/kakarot2905/crowd-counting)
-- A web-based application to count people in real-time using computer vision and AI.
-
-### [Drone-Based Monitoring System](https://github.com/kakarot2905/drone-monitoring)
-- A drone system for monitoring and detecting certain objects from a height. -->
-
-<!-- ## 📫 How to Reach Me
-
-- 🔗 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/kakarot2905)
-- 🌐 Portfolio: [My Portfolio](https://portfolio-link.com)
-- ✉️ Email: kakarot2905@example.com -->
-
-## 🎯 Let's Connect
-
-Feel free to open an issue or send me a message about any of my projects. I'm always open to contributing and collaborating with other developers.
+<br clear="right"/>
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kakarot2905&color=dc143c&style=for-the-badge" alt="Profile Views" style="height: 25px;" />
-  <a href="https://github.com/kakarot2905">
-    <img src="https://img.shields.io/badge/Portfolio-543DE0?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" style="height: 25px;" />
-  </a>
-</p>
+## 🛸 Tech Stack
+
+<div align="center">
+
+### 🖥️ Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d0d2b?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-0d0d2b?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-0d0d2b?style=for-the-badge&logo=css3&logoColor=1572B6)
+
+### ⚙️ Backend
+![Node.js](https://img.shields.io/badge/Node.js-0d0d2b?style=for-the-badge&logo=nodedotjs&logoColor=339933)
+![Express.js](https://img.shields.io/badge/Express.js-0d0d2b?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-0d0d2b?style=for-the-badge&logo=mongodb&logoColor=47A248)
+
+### 💻 Languages
+![Python](https://img.shields.io/badge/Python-0d0d2b?style=for-the-badge&logo=python&logoColor=3776AB)
+![C++](https://img.shields.io/badge/C++-0d0d2b?style=for-the-badge&logo=cplusplus&logoColor=00599C)
+![SQL](https://img.shields.io/badge/SQL-0d0d2b?style=for-the-badge&logo=postgresql&logoColor=336791)
+
+### 🔧 Tools & Platforms
+![Git](https://img.shields.io/badge/Git-0d0d2b?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-0d0d2b?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0d0d2b?style=for-the-badge&logo=docker&logoColor=2496ED)
+![VS Code](https://img.shields.io/badge/VS%20Code-0d0d2b?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
+![Firebase](https://img.shields.io/badge/Firebase-0d0d2b?style=for-the-badge&logo=firebase&logoColor=FFCA28)
+
+### 🚀 Deployment
+![Vercel](https://img.shields.io/badge/Vercel-0d0d2b?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-0d0d2b?style=for-the-badge&logo=netlify&logoColor=00C7B7)
+![Heroku](https://img.shields.io/badge/Heroku-0d0d2b?style=for-the-badge&logo=heroku&logoColor=430098)
+
+### 🎮 Beyond the Code
+![Unity](https://img.shields.io/badge/Unity-0d0d2b?style=for-the-badge&logo=unity&logoColor=white)
+![Fusion 360](https://img.shields.io/badge/Fusion%20360-0d0d2b?style=for-the-badge&logo=autodesk&logoColor=0696D7)
+
+</div>
+
+---
+
+## 📡 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kakarot2905&show_icons=true&count_private=true&hide=prs&theme=tokyonight&bg_color=0d0d2b&border_color=a78bfa&icon_color=a78bfa&title_color=a78bfa&text_color=818cf8" />
+&nbsp;&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kakarot2905&layout=compact&theme=tokyonight&bg_color=0d0d2b&border_color=a78bfa&title_color=a78bfa&text_color=818cf8" />
+
+</div>
+
+<div align="center">
+
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=kakarot2905&theme=tokyonight&background=0d0d2b&border=a78bfa&ring=a78bfa&fire=f472b6&currStreakLabel=a78bfa&sideLabels=818cf8&dates=818cf8" />
+
+</div>
+
+---
+
+## 🌠 Contribution Galaxy
+
+<div align="center">
+
+[![Kakarot2905's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kakarot2905&bg_color=0d0d2b&color=a78bfa&line=7c3aed&point=f472b6&area=true&area_color=1a1a4e&hide_border=false&border_color=a78bfa&title_color=a78bfa)](https://github.com/kakarot2905)
+
+</div>
+
+---
+
+## 🤝 Let's Connect Across the Universe
+
+<div align="center">
+
+> *"The cosmos is within us. We are made of star-stuff... and JavaScript."*
+
+Feel free to open an issue, send a message, or collaborate on any project.
+I'm always open to connecting with fellow developers across the galaxy. 🌌
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d2b,50:1a1a4e,100:0d0d2b&height=100&section=footer" width="100%" />
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=kakarot2905&color=7c3aed&style=for-the-badge&label=PROFILE+VIEWS)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-kakarot2905-7c3aed?style=for-the-badge&logo=github)](https://github.com/kakarot2905)
+
+</div>
